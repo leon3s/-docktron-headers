@@ -1,0 +1,17 @@
+{
+  "private": false,
+  "name": "@docktron/headers",
+  "version": "1.0.0",
+  "description": "Types definitions for docktron",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "postinstall": "build"
+  },
+  "author": "leon3s",
+  "license": "ISC",
+  "publishConfig": {"access": "public"},
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
