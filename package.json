@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@docktron/headers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Types definitions for docktron",
   "main": "dist/index.js",
   "scripts": {
