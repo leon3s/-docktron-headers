@@ -4,6 +4,16 @@ export interface IUser {
   id:string;
 }
 
+export interface IRelease {
+  id:string;
+  name:string;
+  title:string;
+  tag:string;
+  body:string;
+  tag_name:string;
+  published_at:Date;
+};
+
 export interface IWebApp {
   id:string;
   ID: string;
